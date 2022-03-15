@@ -2,4 +2,4 @@
 
 //Console.WriteLine(Homework3.GetGCDOfOneNumbers(12));
 
-Console.WriteLine(Cycles.IsEquallyFigure(123312132, 46444567));
+Console.WriteLine(Cycles.IsEquallyFigure(1233412132, 46444567));

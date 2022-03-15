@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Мethods_01\\Мethods_01\\Мethods_01.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Methods_01\\Мethods_01\\Мethods_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Мethods_01\\Мethods_01\\Мethods_01.csproj": {
+    "C:\\Users\\User\\source\\repos\\Methods_01\\Мethods_01\\Мethods_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Мethods_01\\Мethods_01\\Мethods_01.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Methods_01\\Мethods_01\\Мethods_01.csproj",
         "projectName": "Мethods_01",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Мethods_01\\Мethods_01\\Мethods_01.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Methods_01\\Мethods_01\\Мethods_01.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Мethods_01\\Мethods_01\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\Methods_01\\Мethods_01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft Visual Studio_sdk\\Shared\\NuGetPackages"
